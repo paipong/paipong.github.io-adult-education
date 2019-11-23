@@ -1,6 +1,6 @@
 # 为什么一定要提升学历？
 
-> - [github 安装教程](/jiaocheng/)
+> - [github 安装教程](/jiaocheng/github help.md/)
 
 为什么要提升学历，提升学历有什么意义，有哪些重要意义，既花钱又花时间到底值不值？
 
@@ -61,11 +61,11 @@
 
 **学历，不止一纸文凭！**
 
-<ringt>**彭湃**</ringt>
+<right>**彭湃**</right>
 
-**<ringt>tapai8899@126.com</ringt>**
+**tapai8899@126.com**
 
-<ringt>**2019.11.23**</ringt>
+<right>**2019.11.23**</right>
 
 
 
