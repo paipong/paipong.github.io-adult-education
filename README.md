@@ -60,9 +60,11 @@
 
 **学历，不止一纸文凭！**
 
-<center>彭湃
-  tapai8899@126.com
-  2019.11.23</center>
+<center>彭湃</center>
+
+<center>tapai8899@126.com</center>
+
+<center>2019.11.23</center>
 
 
 
