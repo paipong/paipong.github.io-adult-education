@@ -4,4 +4,4 @@
 
 2019年11月22日
 
-
+![](images/blbcover.jpg)
