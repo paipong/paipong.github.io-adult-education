@@ -2,6 +2,8 @@
 
 > - [github 安装教程](/jiaocheng/)	
 
+[2](/jiaocheng/github-help.md/)
+
 为什么要提升学历，提升学历有什么意义，有哪些重要意义，既花钱又花时间到底值不值？	
 
 ---	
