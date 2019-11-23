@@ -2,6 +2,6 @@
 
 彭 湃
 
-2019.11.22
+2019年11月22日
 
 ![](http://sucai.dabaoku.com/ziran/shanshui/037bk.jpg)
