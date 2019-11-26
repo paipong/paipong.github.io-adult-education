@@ -1,3 +1,3 @@
 # github 教程
 
-![](jiaocheng/dahai.jpg)
+![](image/03.jpg)
