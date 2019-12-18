@@ -1,3 +1,3 @@
-# github 教程
+# 国家开放大学
 
-![](image/02.jpg)
+![](image\ou.jpg)
