@@ -8,5 +8,5 @@
 
 ## tapai8899@126.com
 
-![](image/02.jpg)
+
 
