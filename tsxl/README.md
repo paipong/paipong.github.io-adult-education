@@ -62,6 +62,6 @@
 
 ## 相关咨询
 
-> - [github 安装教程文件夹](/jiaocheng/)
+> - [国家开放大学](/open_university/)
 
 > - [什么是函授？](/hanshou/)
